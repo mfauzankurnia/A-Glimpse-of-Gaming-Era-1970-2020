@@ -16,7 +16,7 @@ Background: The video game industry has evolved into a large and complex global 
 
 Objective: To provide data-driven insights on video game performance that can support strategic decisions in game development, platform selection, and market targeting.
 
-
+----
 
 -- The Way It Processed
 
@@ -31,13 +31,13 @@ Core Analysis:
 - Critic score vs sales correlation. 
 - Top publisher (defined by publisher who have the most sales in top sales cluster).
 
-
+----
 
 -- Output
 
 Please check the file "Video_Game_Performance_Release_Year_1970_-_2020" to see the visualized insight results.
 
-
+----
 
 -- How to Run Analysis Code
 
